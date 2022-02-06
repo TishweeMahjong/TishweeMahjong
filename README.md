@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Atishree.
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning how to use Github.
-- 💞️ I’m looking to collaborate on The Wit Project.
+- 👀 I’m interested in creating Anti-Racist Technology.
+- 💞️ I’m looking to collaborate with The Wit Project.
 - 📫 How to reach me @TishweeMMahjong.
 
 <!---
